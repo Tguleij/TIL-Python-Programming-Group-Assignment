@@ -5,12 +5,11 @@ Group 16:
 
 Students: 
  
-Emma ten Koppel: 5570484 
-Ties Timmerman: 5636965 
-Twan Guleij: 5072530 
-Gijs Bezemer: 5064481 
-Machtelt Boogers: 5416396 
-
+Emma ten Koppel: 
+Ties Timmerman: 
+Twan Guleij: 
+Gijs Bezemer: 
+Machtelt Boogers: 
  
 
 **Research Proposal: Impact of the Russia-Ukraine War on Flight Behavior Between Europe and Asia**
